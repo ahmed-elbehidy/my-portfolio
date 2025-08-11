@@ -3,7 +3,7 @@
 This is my personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
-[Click here to view](https://your-username.github.io/my-portfolio)
+[Click here to view](https://ahmed-elbehidy.github.io/my-portfolio)
 
 ## Features
 - Responsive design
