@@ -276,11 +276,11 @@ section {
         padding: 80px 20px;
     }
 
-    .main-content h2{
+    .main h2{
         font-size: 1em;
     }
 
-    .main-content h3{
+    .main h3{
         font-size: 1.6em;
     }
 
@@ -296,11 +296,11 @@ section {
         font-size: 12px;
     }
 
-    .main-content h2{
+    .main h2{
         font-size: 0.8em;
     }
 
-    .main-content h3{
+    .main h3{
         font-size: 1.4em;
     }
 }
@@ -311,3 +311,4 @@ section {
      
     }
 }
+
