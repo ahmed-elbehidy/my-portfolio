@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my personal portfolio website built with HTML, CSS, and JavaScript.
+This is my personal portfolio website built with HTML and CSS.
 
 ## Live Demo
 [Click here to view](https://ahmed-elbehidy.github.io/my-portfolio)
